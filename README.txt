@@ -1,6 +1,5 @@
 
-testing
-AHRS
+                                    AHRS
 -----------------------------------------------------------------
 Summary:
 	This sensor fusion project uses the accelerometer and magnetometer to correct the gyroscope's 
